@@ -1,10 +1,9 @@
 # Tankers
 <img src="Media/icon.png">
 
-Tankers python game
+Tankers
 
-Projekt napravljen pomoću pythona i library-a pygame.
-Ovo su fajlovi prije kompajliranja u .exe datoteku.
+Made with Python and pygame.
 
 <img src="Media/gameplay.gif">
 Gameplay
