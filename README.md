@@ -1,9 +1,6 @@
 # Tankers
-<img src="Media/icon.png">
+<img src="Media/icon.png">  Tankers
 
-Tankers
-
-Made with Python and pygame.
+Made with Python and Pygame.
 
 <img src="Media/gameplay.gif">
-Gameplay
