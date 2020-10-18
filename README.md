@@ -1,5 +1,5 @@
 # Tankers
-<img src="Media/icon.png">  Tankers
+<img src="Media/icon.png">
 
 Made with Python and Pygame.
 
